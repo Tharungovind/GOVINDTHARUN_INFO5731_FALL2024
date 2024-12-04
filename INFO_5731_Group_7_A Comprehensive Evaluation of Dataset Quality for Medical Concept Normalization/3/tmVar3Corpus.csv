@@ -1,0 +1,38 @@
+ID,Title,Abstract,Gene,Mutation,Additional_Info
+19429592	984	1000	p.S522fs 525stop	ProteinMutation	p,FS,S,522,,525;CorrespondingGene:6103;VariantGroup:0
+19223935	1541	1552	Leu203fsX15	ProteinMutation	p,FS,L,203,,15;CorrespondingGene:659;VariantGroup:1
+16525586	1244	1259	Ser290/Ala291fs	ProteinMutation	p,FS,"S,A","290,291",,;CorrespondingGene:2162;VariantGroup:0
+16525586	1371	1379	Tyr547fs	ProteinMutation	p,FS,Y,547,,;CorrespondingGene:2162;VariantGroup:1
+16256386	860	868	I38fsX19	ProteinMutation	p,FS,I,38,,19;CorrespondingGene:5053;RS#:199475674;VariantGroup:3
+16256386	902	910	T200fsX6	ProteinMutation	p,FS,T,200,,6;CorrespondingGene:5053;RS#:62508643;VariantGroup:17
+16256386	926	935	F302fsX39	ProteinMutation	p,FS,F,302,,39;CorrespondingGene:5053;VariantGroup:1
+22042570	786	799	p.V903GfsX905	ProteinMutation	p,FS,V,903,G,905;CorrespondingGene:4976;RS#:80356530;VariantGroup:0
+20583543	889	900	p.A27fsX132	ProteinMutation	p,FS,A,27,,132;CorrespondingGene:6716;VariantGroup:0
+19370764	1058	1070	p.G204VfsX28	ProteinMutation	p,FS,G,204,V,28;Gene;84572;VariantGroup:9
+19370764	1656	1668	p.G204VfsX17	ProteinMutation	p,FS,G,204,V,17;Gene;84572;VariantGroup:8
+18385794	1223	1240	p. Pro184ArgfsX19	ProteinMutation	p,FS,P,184,R,19;CorrespondingGene:6657;RS#:587776776;VariantGroup:1
+21904390	1257	1268	p.Ser119fsX	ProteinMutation	p,FS,S,119,,;CorrespondingGene:5080;VariantGroup:0
+20534762	1075	1086	C105Vfs114X	ProteinMutation	p,FS,C,105,V,114;CorrespondingGene:7252;VariantGroup:0
+19766614	1090	1102	p.S124fsX127	ProteinMutation	p,FS,S,124,,127;CorrespondingGene:6399;VariantGroup:0
+21126715	79	87	Ile262fs	ProteinMutation	p,FS,I,262,,;CorrespondingGene:26580;RS#:749890533;VariantGroup:0
+21126715	1243	1251	Ile262fs	ProteinMutation	p,FS,I,262,,;CorrespondingGene:26580;RS#:749890533;VariantGroup:0
+19929939	1116	1133	p.Cys817Valfs X15	ProteinMutation	p,FS,C,817,V,15;CorrespondingGene:1540;VariantGroup:0
+19592582	498	504	P686fs	ProteinMutation	p,FS,P,686,,;CorrespondingGene:164656;VariantGroup:0
+17990063	1045	1058	p.T3708fs3769	ProteinMutation	p,FS,T,3708,,3769;CorrespondingGene:157680;VariantGroup:0
+16822828	730	736	V311fs	ProteinMutation	p,FS,V,311,,;CorrespondingGene:1586;VariantGroup:1
+16822828	741	747	Y329fs	ProteinMutation	p,FS,Y,329,,;CorrespondingGene:1586;VariantGroup:0
+16822828	788	794	V311fs	ProteinMutation	p,FS,V,311,,;CorrespondingGene:1586;VariantGroup:1
+16822828	848	854	Y329fs	ProteinMutation	p,FS,Y,329,,;CorrespondingGene:1586;VariantGroup:0
+16822828	952	958	Y329fs	ProteinMutation	p,FS,Y,329,,;CorrespondingGene:1586;VariantGroup:0
+16822828	993	999	Y329fs	ProteinMutation	p,FS,Y,329,,;CorrespondingGene:1586;VariantGroup:0
+16822828	1004	1010	V311fs	ProteinMutation	p,FS,V,311,,;CorrespondingGene:1586;VariantGroup:1
+16822828	1538	1544	Y329fs	ProteinMutation	p,FS,Y,329,,;CorrespondingGene:1586;VariantGroup:0
+16822828	1779	1785	Y329fs	ProteinMutation	p,FS,Y,329,,;CorrespondingGene:1586;VariantGroup:0
+21738389	1386	1402	p.Pro246HisfsX13	ProteinMutation	p,FS,P,246,H,13;CorrespondingGene:25861;VariantGroup:0
+21559944	956	971	p.Val35AlafsX25	ProteinMutation	p,FS,V,35,A,25;CorrespondingGene:3373;VariantGroup:0
+20019594	1152	1164	p.D157fsX158	ProteinMutation	p,FS,D,157,,158;CorrespondingGene:3949;VariantGroup:1
+20019594	1169	1181	p.S173fsX174	ProteinMutation	p,FS,S,173,,174;CorrespondingGene:3949;VariantGroup:4
+18945288	0	5	R58fs	ProteinMutation	p,FS,R,58,,;CorrespondingGene:3081;VariantGroup:0
+18945288	1322	1331	p.Arg58fs	ProteinMutation	p,FS,R,58,,;CorrespondingGene:3081;VariantGroup:0
+18945288	1335	1342	p.R58fs	ProteinMutation	p,FS,R,58,,;CorrespondingGene:3081;VariantGroup:0
+18945288	1479	1484	R58fs	ProteinMutation	p,FS,R,58,,;CorrespondingGene:3081;VariantGroup:0
