@@ -1,1 +1,1 @@
-# GOVINDTHARUN_INFO5731_FALL2024
+updated readme 
